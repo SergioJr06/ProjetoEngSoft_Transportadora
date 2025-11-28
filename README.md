@@ -42,7 +42,7 @@ com.transportadora ├── model # Classes de dados (Usuario, Cliente, Pedido,
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/TransportadoraApp.git](https://github.com/SEU_USUARIO/TransportadoraApp.git)
+    git clone "https://github.com/SergioJr06/ProjetoEngSoft_Transportadora.git"
     ```
 2.  **Abra no NetBeans:**
     * Vá em `File` > `Open Project`.
